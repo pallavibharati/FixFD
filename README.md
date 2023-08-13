@@ -28,7 +28,7 @@ Using FixFD is straightforward and hassle-free. Simply visit the website, search
 
 FixFD is built using the latest web technologies(without) any framework including HTML, CSS, JavaScript, and Node.js only. The entire application development approach is inspired by first principles of web dev and leverages the power of these technologies to deliver a fast, responsive, and feature-rich experience that is accessible to all.
 
-#My Contribution
+# My Contribution
 
 1. Conducted research on banks in india and documented relevant information and name for website i.e. FixFD.
 2. Conducted research on FixFD marketing strategies and documented relevant information such as a list of  platforms.
