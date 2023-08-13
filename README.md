@@ -46,6 +46,6 @@ FixFD is built using the latest web technologies(without) any framework includin
 14. Configured Cloudflare cache for FixFD.
 15. Worked on UAT (User Acceptance Testing) for FixFD.
 16. Daily maintenance of FixFD server and checking the data scraping.
-17. Worked and engaged in code refactoring of FixFD version 1, including API design, database optimization, server-side rendering, Nginx Cache, and website performance enhancements.
+17. Worked and engaged in code refactoring of FixFD version 1, including API design, database optimization, server-side rendering, Nginx Cache, and website performance enhancements used the tools - W3C, GTMetrix etc.
 
 
