@@ -30,7 +30,7 @@ FixFD is built using the latest web technologies(without) any framework includin
 
 # My Contribution
 
-1. Conducted research on banks in india and documented relevant information and name for website i.e. FixFD.
+1. Research on banks in india and documented relevant information and name for website i.e. FixFD.
 2. Conducted research on FixFD marketing strategies and documented relevant information such as a list of  platforms.
 3. Designed the UI for the FixFD application, specifically focusing on the UI/UX aspects.
 4. Worked on the database design and management, written scripts for backup & recovery of database.
