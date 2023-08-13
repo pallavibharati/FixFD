@@ -33,20 +33,19 @@ FixFD is built using the latest web technologies(without) any framework includin
 1. Conducted research on banks in india and documented relevant information and name for website i.e. FixFD.
 2. Conducted research on FixFD marketing strategies and documented relevant information such as a list of  platforms.
 3. Designed the UI for the FixFD application, specifically focusing on the UI/UX aspects.
-4. Worked on the database design and management of FixFD.
+4. Worked on the database design and management, written scripts for backup & recovery of database.
 5. Worked on the data scraping and backend of FixFD (creating scraping templates and helped in creating parser).
 6. Collaborated on developing individual features of FixFD.
 7. Implemented and configured Google Analytics, Google Tag Manager, and Google Search Console for FixFD.
-8. Set up Google Analytics, Google Tag Manager, and Google Search Console for the L&T Cloudfiniti website.
-10. Configured Cloudflare cache for FixFD.
-11. Set up the Galera Cluster.
-12. Developed scripts for automatic provisioning of nodes in the Galera Cluster.
-13. Worked on Server configuration.
-14. Collaborated in developing APY, APR calculator.
-15. Worked on  LAMP stack along with wordpress (Apache, Mysql etc).
-16. Configured Cloudflare cache for FixFD.
-17. Worked on UAT (User Acceptance Testing) for FixFD.
-18. Daily maintenance of FixFD server and checking the data scraping.
-19. Worked and engaged in code refactoring of FixFD version 1, including API design, database optimization, server-side rendering, Nginx Cache, and website performance enhancements.
-20. Backup & Recovery.
+8. Configured Cloudflare cache for FixFD.
+9.  Set up the Galera Cluster.
+10. Developed scripts for automatic provisioning of nodes in the Galera Cluster.
+11. Worked on Server configuration.
+12. Collaborated in developing APY, APR calculator.
+13. Worked on  LAMP stack along with wordpress (Apache, Mysql etc).
+14. Configured Cloudflare cache for FixFD.
+15. Worked on UAT (User Acceptance Testing) for FixFD.
+16. Daily maintenance of FixFD server and checking the data scraping.
+17. Worked and engaged in code refactoring of FixFD version 1, including API design, database optimization, server-side rendering, Nginx Cache, and website performance enhancements.
+
 
